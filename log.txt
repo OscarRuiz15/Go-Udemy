@@ -1,0 +1,1 @@
+2021/12/09 11:47:42 Ocurrió un error: open sin-archivo.txt: The system cannot find the file specified.
